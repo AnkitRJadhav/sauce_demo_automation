@@ -1,1 +1,0 @@
-# sauce_demo_automation
